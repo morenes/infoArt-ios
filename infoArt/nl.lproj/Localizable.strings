@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  infoArt
+
+  Created by mac mini on 18/8/15.
+  Copyright (c) 2015 obtcontrol. All rights reserved.
+*/
+
+//MAIN CONTROLLER
+"comenzar %@"="Start %@";
+"selecciona museo"="Kies museum";
+"codigo de verificacion"="Koop code";
+"introducir codigo"="Type code";
+"cancelar"="Annuleer";
+"aceptar"="Accepteer";
+"comprobar"="Check";
+"obtener"="Verkrijg code";
+"descargando"="Aan het downloaden...";
+
+//TEXTVIEW CONTROLLER
+"escribe..."="Type...";
+"enviar"="Verstuur";
+"enviando..."="Aan het versturen...";
+"enviado"="Verzonden";
+"no conexion"="Kijk je WIFI of mobiele verbinding na";
+
+//MUSEO CONTROLLER
+"comenzar visita"="Start gids";
+"buscar por numero"="Zoeken op nummer";
+"mapas e informacion"="Maps en info";
+"buscar guia"="Zoek gids";
+"introducir numero"="Geef nummer in";
+
+//LIST CONTROLLER
+"mapa museo"="Museum map";
+"destacados"="Hoogtepunten";
+"mis favoritos"="Mijn favorieten";
+"informacion del museo"="Museum informatie";
+"museos visitados"="Bezochte museums";
+"mapa museos infoart"="infoArt's map";
+"buzon sugerencias"="Suggestie box";
+"sobre la app"="Over de App";
+
+//MEDIA CONTROLLER
+"me gusta"="Like";
+"no me gusta"="Dislike";
+
+//PAY CONTROLLER
+"obteniendo codigo"="De betaling is succesvol. De code wordt nu verkregen...";
+"codigo recibido"="De code is verkregen";
+"comprar codigo"="Koop code";
+"paypal"="Betaal met Paypal";
+"apple"="Betaal met Apple account";
+//"descripcion pago"="Om toegang te verkrijgen tot de content heb je 3 betaalmethodes: geef de code in die je gekocht hebt aan de inkom of betaal via PayPal of je Apple account";
+"descripcion pago"="Om toegang te verkrijgen tot de content heb je 2 betaalmethodes: geef de code in die je gekocht hebt aan de inkom of betaal via PayPal";
+"descripcion pago no"="Om toegang te verkrijgen tot de content heb je 2 betaalmethodes: geef de code in die je gekocht hebt aan de inkom of je Apple account";

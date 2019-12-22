@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  infoArt
+
+  Created by mac mini on 18/8/15.
+  Copyright (c) 2015 obtcontrol. All rights reserved.
+*/
+
+//MAIN CONTROLLER
+"comenzar %@"="Start %@";
+"selecciona museo"="Choose museum";
+"codigo de verificacion"="Purchase code";
+"introducir codigo"="Type code";
+"cancelar"="Cancel";
+"aceptar"="Accept";
+"comprobar"="Check";
+"obtener"="Get code";
+"descargando"="Downloading...";
+
+//TEXTVIEW CONTROLLER
+"escribe..."="Type...";
+"enviar"="Send";
+"enviando..."="Sending...";
+"enviado"="Sent";
+"no conexion"="No internet. Set WIFI or 3G";
+
+//MUSEO CONTROLLER
+"comenzar visita"="Start guide";
+"buscar por numero"="Search by number";
+"mapas e informacion"="Maps and info";
+"buscar guia"="Search guide";
+"introducir numero"="Insert number";
+
+//LIST CONTROLLER
+"mapa museo"="Museum map";
+"destacados"="Highlighted";
+"mis favoritos"="My favourites";
+"informacion del museo"="Museum information";
+"museos visitados"="Visited museums";
+"mapa museos infoart"="infoArt museum map";
+"buzon sugerencias"="Suggestion box";
+"sobre la app"="About the App";
+
+//MEDIA CONTROLLER
+"me gusta"="Like";
+"no me gusta"="Dislike";
+
+//PAY CONTROLLER
+"obteniendo codigo"="Payment successful. Obtaining code...";
+"codigo recibido"="Code received";
+"comprar codigo"="Buy code";
+"paypal"="Pay with Paypal";
+"apple"="Pay with Apple account";
+//"descripcion pago"="To access the content, you have 3 alternatives of payment: insert the code you can buy at the entrance, pay it via Paypal, or through the Apple account";
+//"descripcion pago no"="To access the content, you have 2 alternatives of payment: insert the code you can buy at the entrance or through the Apple account";
+"descripcion pago"="To access the content, you have 2 alternatives of payment: insert the code you can buy at the entrance or pay it via Paypal";

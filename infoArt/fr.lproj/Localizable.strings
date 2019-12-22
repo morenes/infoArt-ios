@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  infoArt
+
+  Created by mac mini on 18/8/15.
+  Copyright (c) 2015 obtcontrol. All rights reserved.
+*/
+
+//MAIN CONTROLLER
+"comenzar %@"="Commencer %@";
+"selecciona museo"="Sélectionnez musée";
+"codigo de verificacion"="Code de vérification";
+"introducir codigo"="Entrez le code";
+"cancelar"="Annuler";
+"aceptar"="Accepter";
+"comprobar"="Vérifier";
+"obtener"="Obtenir le code";
+"descargando"="Téléchargement...";
+
+//TEXTVIEW CONTROLLER
+"escribe..."="Ecrire...";
+"enviar"="Envoyer";
+"enviando..."="Envoi...";
+"enviado"="Envoyé";
+"no conexion"="No internet. Configurer WIFI ou 3G";
+
+//MUSEO CONTROLLER
+"comenzar visita"="Commencez la visite";
+"buscar por numero"="Recherche par numéro";
+"mapas e informacion"="Cartes et informations";
+"buscar guia"="Resercher guide";
+"introducir numero"="Entrer numéro";
+
+//LIST CONTROLLER
+"mapa museo"="Carte Musée";
+"destacados"="Faits saillants";
+"mis favoritos"="Mes favoris";
+"informacion del museo"="Informations de musée";
+"museos visitados"="Musées visités";
+"mapa museos infoart"="Musées infoArt carte";
+"buzon sugerencias"="Suggestions boîte aux lettres";
+"sobre la app"="A propos de l'App";
+
+//MEDIA CONTROLLER
+"me gusta"="J'aime";
+"no me gusta"="je n'aime pas";
+
+//PAY CONTROLLER
+"obteniendo codigo"="Paiement succès. Obtenir le code...";
+"codigo recibido"="Code reçu";
+"comprar codigo"="Acheter le code";
+"paypal"="Payez avec Paypal";
+"apple"="Payez avec le compte Apple";
+"descripcion pago"="Pour accéder à l'application, il ya 2 options de paiement: entrez le code que vous commandez à la réception ou acheter par Paypal";
+//"descripcion pago"="Pour accéder à l'application, il ya 3 options de paiement: entrez le code que vous commandez à la réception, acheter par Paypal, ou par l'intermédiaire de votre compte Apple";
+"descripcion pago no"="Pour accéder à l'application, il ya 2 options de paiement: entrez le code que vous commandez à la réception ou par l'intermédiaire de votre compte Apple";

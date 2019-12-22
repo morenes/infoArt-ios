@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  infoArt
+
+  Created by mac mini on 18/8/15.
+  Copyright (c) 2015 obtcontrol. All rights reserved.
+*/
+
+//MAIN CONTROLLER
+"comenzar %@"="Inizia %@";
+"selecciona museo"="Seleziona museo";
+"codigo de verificacion"="Codice di verifica";
+"introducir codigo"="Inserisci codice";
+"cancelar"="Annulla";
+"aceptar"="Accetta";
+"comprobar"="Controllare";
+"obtener"="Ottenere codice";
+"descargando"="Il download...";
+
+//TEXTVIEW CONTROLLER
+"escribe..."="Scrivi...";
+"enviar"="Invia";
+"enviando..."="Invio...";
+"enviado"="Inviato";
+"no conexion"="Non internet. Configurare il WIFI o 3G";
+
+//MUSEO CONTROLLER
+"comenzar visita"="Inizia visita";
+"buscar por numero"="Ricerca per numero";
+"mapas e informacion"="Mappe e informazioni";
+"buscar guia"="Ricerca guida";
+"introducir numero"="Inserire numero";
+
+//LIST CONTROLLER
+"mapa museo"="Museo mappa";
+"destacados"="La migliore";
+"mis favoritos"="Preferiti";
+"informacion del museo"="Informazioni museo";
+"museos visitados"="Musei visitati";
+"mapa museos infoart"="infoArt musei mappa";
+"buzon sugerencias"="Cassetta dei suggerimenti";
+"sobre la app"="Chi l'App";
+
+//MEDIA CONTROLLER
+"me gusta"="Mi piace";
+"no me gusta"="Non mi piace";
+
+//PAY CONTROLLER
+"obteniendo codigo"="Pagamento corretto. Ottenere codice...";
+"codigo recibido"="Codice ricevuto";
+"comprar codigo"="Acquistare codice";
+"paypal"="Pagare con Paypal";
+"apple"="Pagare con account Apple";
+//"descripcion pago"="Per accedere ai contenuti , si dispone di 3 alternative di pagamento: inserisci il codice è possibile acquistare all'ingresso , paga tramite Paypal , o attraverso l' account Apple";
+"descripcion pago"="Per accedere ai contenuti , si dispone di 2 alternative di pagamento: inserisci il codice è possibile acquistare all'ingresso o paga tramite Paypal";
+"descripcion pago no"="Per accedere ai contenuti , si dispone di 2 alternative di pagamento: inserisci il codice è possibile acquistare all'ingresso o attraverso l' account Apple";

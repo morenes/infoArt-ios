@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  infoArt
+
+  Created by mac mini on 18/8/15.
+  Copyright (c) 2015 obtcontrol. All rights reserved.
+*/
+
+//MAIN CONTROLLER
+"selecciona museo"="Museumsauswahl";
+"codigo de verificacion"="Code kaufen";
+"introducir codigo"="Code eintragen";
+"cancelar"="Lˆschen";
+"aceptar"="Akzeptieren";
+"comprobar"="Pr¸fen";
+"obtener"="Code beschaffen";
+"descargando"="Download...";
+
+//TEXTVIEW CONTROLLER
+"escribe..."="Schreibe...";
+"enviar"="Senden";
+"enviando..."="Sendet...";
+"enviado"="Gesendet";
+"no conexion"="Bitte prüfen Sie das WiFi oder Ihr Handy";
+
+//MUSEO CONTROLLER
+"comenzar visita"="Starthilfe";
+"buscar por numero"="Mit Nummer suchen ";
+"mapas e informacion"="Karten und Information";
+"buscar guia"="Suchhilfe";
+"introducir numero"="Nummer eintragen";
+
+//LIST CONTROLLER
+"mapa museo"="Museumskarte";
+"destacados"="Highlighted";
+"mis favoritos"="Meine Favoriten";
+"informacion del museo"="Museums-Informationen";
+"museos visitados"="Besuchte Museen";
+"mapa museos infoart"="infoArt's Karte";
+"buzon sugerencias"="Vorschlags-Box";
+"sobre la app"="Über die App";
+
+//MEDIA CONTROLLER
+"me gusta"="Like";
+"no me gusta"="Dislike";
+
+//PAY CONTROLLER
+"obteniendo codigo"="Bezahlung erfolgreich. lade code...";
+"codigo recibido"="Code erhalten";
+"comprar codigo"="Code kaufen";
+"paypal"="Bezahlung mit PayPal";
+"apple"="Mit Apple account bezahlen";
+//"descripcion pago"="Um Zugriff auf den Inhalt zu erhalten, stehen Ihnen 3 alternative Zahlungsmethoden zur Verf¸gung: Tragen Sie den zu Beginn erworbenen Code ein, Zahlen Sie mit PayPal, oder bezahlen Sie mit Ihrem Apple Account";
+"descripcion pago"="Um Zugriff auf den Inhalt zu erhalten, stehen Ihnen 2 alternative Zahlungsmethoden zur Verf¸gung: Tragen Sie den zu Beginn erworbenen Code ein oder Zahlen Sie mit PayPal";
+"descripcion pago no"="Um Zugriff auf den Inhalt zu erhalten, stehen Ihnen 2 alternative Zahlungsmethoden zur Verf¸gung: Tragen Sie den zu Beginn erworbenen Code ein oder bezahlen Sie mit Ihrem Apple Account";
